@@ -1,4 +1,4 @@
-# LinAlgImageConvolution
+# Linear Algebra Image Convolution
 
 Amitha Soundararajan
 Dr. Muller
